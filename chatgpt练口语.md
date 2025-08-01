@@ -64,5 +64,10 @@
 
 
 
+### 一些prompt
+respond 
+refine my version. make it simple, natural and most importantly idiomatic
+how to say XXX in english? 
+point out my mistakes and expressions that sound odd??? not coherent eneough.
 
 
